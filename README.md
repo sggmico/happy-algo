@@ -13,13 +13,13 @@
 
 1. [冒泡排序](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.js)
 2. [选择排序](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.js)
-3. 快速排序
+3. [快速排序](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/sort/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.js)
 
 
 
 ## 二叉树
 
-1. [前序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.js)
-2. [中序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.js)
-3. [后序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.js)
+1. [前序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/tree/%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86-%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+2. [中序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/tree/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86-%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+3. [后序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/docs/tree/%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86-%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 
