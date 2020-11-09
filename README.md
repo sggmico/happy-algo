@@ -36,9 +36,9 @@
 2. [中序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/tree/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86-%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 3. [后序遍历](https://github.com/szjxxy/fe-happy-algo/blob/master/tree/%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86-%E4%BA%8C%E5%8F%89%E6%A0%91.js)
 
-### 位运算
+## 位运算
 
-1. [LC第371题：两整数之和 - 位运算](https://github.com/szjxxy/fe-happy-algo/issues/1)
+1. [LC第371题：两整数之和](https://github.com/szjxxy/fe-happy-algo/issues/1)
    
 ## 交流
 如果想了解更多算法知识，欢迎扫码下方二维码，关注微信公众号：「乘风破浪大前端」。回复 "算法"，加群和大家一起探讨算法知识。😊
