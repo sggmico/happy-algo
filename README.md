@@ -68,10 +68,6 @@
 ## 位运算
 
 1. [LC第371题：两整数之和](https://github.com/szjxxy/fe-happy-algo/issues/1)
-   
-## 交流
-如果想了解更多算法知识，欢迎扫码下方二维码，关注微信公众号：「乘风破浪大前端」。回复 "算法"，加群和大家一起探讨算法知识。😊
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk2rjhye7dj3076076mxm.jpg)
 
 See you , next time ~
