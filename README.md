@@ -23,10 +23,11 @@
 2. LC第15题：三数之和
 3. [LC第27题：移除元素](https://leetcode.cn/problems/remove-element/description/)
 4. [LC第88题：合并两个有序数组](https://github.com/szjxxy/fe-happy-algo/issues/2)
+5. [LC第169题：多数元素](https://leetcode.cn/problems/majority-element/description/)
 
-5. LC第349题：给定一个数组，编写一个函数来计算它们的交集
-6. LC第146题：设计和实现一个LRU（最近最少使用）缓存机制
-7. 
+6. LC第349题：给定一个数组，编写一个函数来计算它们的交集
+7. LC第146题：设计和实现一个LRU（最近最少使用）缓存机制
+8. 
 
 **面试实战**
 1. 数组扁平化、去重、排序
