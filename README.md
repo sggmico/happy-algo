@@ -25,8 +25,9 @@
 4. [LC第88题：合并两个有序数组](https://github.com/szjxxy/fe-happy-algo/issues/2)
 5. [LC第169题：多数元素](https://leetcode.cn/problems/majority-element/description/)
 6. [LC第189题：轮转数组](https://leetcode.cn/problems/rotate-array/description/)
-7. LC第349题：给定一个数组，编写一个函数来计算它们的交集
-8. LC第146题：设计和实现一个LRU（最近最少使用）缓存机制
+7. [LC第121题：买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/description/)
+8. LC第349题：给定一个数组，编写一个函数来计算它们的交集
+9. LC第146题：设计和实现一个LRU（最近最少使用）缓存机制
 
 **面试实战**
 1. 数组扁平化、去重、排序
